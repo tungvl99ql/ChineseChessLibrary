@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ChinaChessCheck/1.0.0": {
+        "runtime": {
+          "ChinaChessCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChinaChessCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

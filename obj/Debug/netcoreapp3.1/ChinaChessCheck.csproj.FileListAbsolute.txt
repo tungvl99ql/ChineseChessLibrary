@@ -1,0 +1,10 @@
+D:\Consangtao\ChinaChessCheck\bin\Debug\netcoreapp3.1\ChinaChessCheck.deps.json
+D:\Consangtao\ChinaChessCheck\bin\Debug\netcoreapp3.1\ChinaChessCheck.dll
+D:\Consangtao\ChinaChessCheck\bin\Debug\netcoreapp3.1\ChinaChessCheck.pdb
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.csproj.AssemblyReference.cache
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.AssemblyInfoInputs.cache
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.AssemblyInfo.cs
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.csproj.CoreCompileInputs.cache
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.dll
+D:\Consangtao\ChinaChessCheck\obj\Debug\netcoreapp3.1\ChinaChessCheck.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinaChessCheck", "ChinaChessCheck.csproj", "{ACED80BE-B3B5-4742-8C1D-FA50FB8136A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppChess", "..\ConsoleAppChess\ConsoleAppChess.csproj", "{812719BA-FB30-4835-BA0E-5E2FC886AEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACED80BE-B3B5-4742-8C1D-FA50FB8136A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED80BE-B3B5-4742-8C1D-FA50FB8136A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED80BE-B3B5-4742-8C1D-FA50FB8136A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED80BE-B3B5-4742-8C1D-FA50FB8136A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812719BA-FB30-4835-BA0E-5E2FC886AEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812719BA-FB30-4835-BA0E-5E2FC886AEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812719BA-FB30-4835-BA0E-5E2FC886AEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812719BA-FB30-4835-BA0E-5E2FC886AEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D05CE6-7612-469E-83FD-F4627A337CF0}
+	EndGlobalSection
+EndGlobal
