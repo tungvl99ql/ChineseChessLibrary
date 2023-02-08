@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "seNrr5zMlVe+zB4PpXZ3DW9uzsghSaLAMNrvIh+ZqhRp7BSnFVmQso3HHpMk9Yi0j5gfOC/HIz/ZFGsqFCFjug==",
+  "dgSpecHash": "5PfP2VNIXKm7Mgj5z+sVjpmgQYXzRzakFnbAl3Mwgk6kckVyleaqLx3JxbU8nR8s9o8FSg9kN5FMyZoWy3RJxg==",
   "success": true,
-  "projectFilePath": "D:\\Consangtao\\ChinaChessCheck\\ChinaChessCheck.csproj",
+  "projectFilePath": "D:\\Consangtao\\CST\\ChineseChessLibrary\\ChinaChessCheck.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

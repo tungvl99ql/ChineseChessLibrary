@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Consangtao\\ChinaChessCheck\\ChinaChessCheck.csproj": {}
+    "D:\\Consangtao\\CST\\ChineseChessLibrary\\ChinaChessCheck.csproj": {}
   },
   "projects": {
-    "D:\\Consangtao\\ChinaChessCheck\\ChinaChessCheck.csproj": {
+    "D:\\Consangtao\\CST\\ChineseChessLibrary\\ChinaChessCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Consangtao\\ChinaChessCheck\\ChinaChessCheck.csproj",
+        "projectUniqueName": "D:\\Consangtao\\CST\\ChineseChessLibrary\\ChinaChessCheck.csproj",
         "projectName": "ChinaChessCheck",
-        "projectPath": "D:\\Consangtao\\ChinaChessCheck\\ChinaChessCheck.csproj",
+        "projectPath": "D:\\Consangtao\\CST\\ChineseChessLibrary\\ChinaChessCheck.csproj",
         "packagesPath": "C:\\Users\\Tung vip pro\\.nuget\\packages\\",
-        "outputPath": "D:\\Consangtao\\ChinaChessCheck\\obj\\",
+        "outputPath": "D:\\Consangtao\\CST\\ChineseChessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tung vip pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
